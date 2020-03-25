@@ -3,7 +3,7 @@
 
 Highlights of recent advancements in Healthcare | AI sector referring papers presented at ML4H workshop of NeurIPS 2018.
 
-## Broad Categories
+### Broad Categories
 
 **1. Human Robot Interaction:**
 
