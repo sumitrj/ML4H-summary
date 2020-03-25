@@ -61,17 +61,27 @@ Lack of Data which has been addressed in the papers:
 
 **i. Augment radiology images with different classes and conditions for education purposes.** 
 
+https://arxiv.org/abs/1812.01547
+
 -> Provides different content for students without having to go through NDA's.
 
-**ii. Make a 3D image of charge potential of epicardial plane of heart using multi-lead ECG signal.**   
+**ii. Make a 3D image of charge potential of epicardial plane of heart using multi-lead ECG signal.**  
+
+Generative Modeling and Inverse Imaging of Cardiac Transmembrane Potential
+
+https://www.researchgate.net/publication/333077512_Generative_Modeling_and_Inverse_Imaging_of_Cardiac_Transmembrane_Potential
 
 -> Can diagnose certain diseases better, offers better visualization, not significantly better than the currently available systems.
 
 **iii. Patch based semi-supervised learning to classify Fundus images** 
 
+https://arxiv.org/abs/1812.07832
+
 -> Retinopathy.
 
 **iv. General-to-Detailed GAN for Infrequent Class Medical Images**
+
+https://arxiv.org/abs/1812.01690
 
 ->  For classes with less examples, use available examples to train a GAN and use it to generate more examples for the class. Now use these examples to train over CNN.
 
@@ -88,6 +98,7 @@ Lack of Data which has been addressed in the papers:
 #### c. Reinforcement Learning based models (Solves 3,4):
 
 Integrating Reinforcement Learning to Self Training for Pulmonary Nodule Segmentation in Chest X-rays
+
 [https://arxiv.org/pdf/1811.08840.pdf](https://arxiv.org/pdf/1811.08840.pdf)
 
 **Train CNN models as classifiers for medical images. Use this model as reward function to train RL(MDP) model whose policies label classes.** 
