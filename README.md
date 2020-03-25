@@ -39,7 +39,7 @@ Disease Detection in Weakly Annotated Volumetric Medical Images using a Convolut
 [https://arxiv.org/abs/1812.01087](https://arxiv.org/abs/1812.01087)
 -> Binary  classifier of emphysema in lung cancer using low power CT images.
 
-#### Additional algorithm 2: Recurrent convolutional gated graph propagators 
+#### 2: Recurrent convolutional gated graph propagators 
 
 Radiotherapy Target Contouring with Convolutional Gated Graph Neural Network 
 
@@ -55,7 +55,7 @@ Lack of Data which has been addressed in the papers:
 3. High intravariance in training images for classifiers
 4. Less frequent classes
 
-Solutions:
+#### Solutions:
 
 ### a. Using Generative Adversarial Networks (Solves 1,2,3,4):
 
