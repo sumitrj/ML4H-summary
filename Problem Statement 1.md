@@ -1,6 +1,6 @@
 ##  Problem Statement 1:
 
-Use chest X-ray images dataset obtained from [https://github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) and [https://www.kaggle.com/c/rsna-pneumonia-detection-challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) to 
+Use chest X-ray images dataset obtained from [https://github.com/ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) and [https://www.kaggle.com/c/rsna-pneumonia-detection-challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) for the following tasks 
 
 ### Task 1: Processing of IEEE8023 data:
 1. Cleaning of metadata
