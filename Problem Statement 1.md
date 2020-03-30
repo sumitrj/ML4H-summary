@@ -5,7 +5,10 @@ Use chest X-ray images dataset obtained from [https://github.com/ieee8023/covid-
 ### Task 1: Processing of IEEE8023 data:
 1. Cleaning of metadata
 2. Processing the  Clinical Notes to determing patient symptoms and find if more variables can be included using the same.
-3.   Use the feature set to train different DNNs and validate the result
+3. Use the feature set to train different DNNs and validate the result
+4. If needed, Train GAN to augment images of classes with lesser data and use it to train the classifier and observe results.
+5. If needed, Use semisupervised learning to account for classes with high variance.
+6. Eperiment labelling using Reinforcement Learning
 
 ### Task 2:  Processing RSNA images
 
