@@ -12,5 +12,5 @@ Use chest X-ray images dataset obtained from [https://github.com/ieee8023/covid-
 
 ### Task 2:  Processing RSNA images
 
-1. Use the -ray image dataset to build a neumonia classifier which doesn't predict existence of COVID-19. 
+1. Use the X-ray image dataset to build a neumonia classifier which doesn't predict existence of COVID-19. 
 2. Use transfer learning or some other method to combine this network and that of task 1 to build better classifiers for pneumonia.
