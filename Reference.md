@@ -2,6 +2,7 @@
 ## Reference for preprocessing techniques and baseline model
 
 1. **Paper Name:** Classification of X-Ray Images for Pneumonia Detection Using Texture Features and Neural Networks.
+
 **From** https://link.springer.com/chapter/10.1007/978-3-030-35445-9_20 | Intuitionistic and Type-2 Fuzzy Logic Enhancements in Neural and Optimization Algorithms: Theory and Applications pp 237-253.
 
 	**Preprocessing steps:** 
