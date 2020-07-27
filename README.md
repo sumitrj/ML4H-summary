@@ -1,5 +1,10 @@
-## Documentation of past work
+## ML4H summary
 
+This is a summary of the latestinnovations in MachineLearning-Healthcare domain.
+For someone finding the state of the art work, this would be a good starting point. 
+I have briefly summarized some recent topics open for innovation and application.
+
+## Documentation of past work
 
 Highlights of recent advancements in Healthcare | AI sector referring papers presented at ML4H workshop of NeurIPS 2018.
 
